@@ -1,1 +1,4 @@
-this is a new readme file to demostrate git push
+chnage the first line this is a new rele to demostrate git push
+   thie 
+dfh 
+eidk
